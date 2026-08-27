@@ -86,5 +86,14 @@
       "Great work creating a fork with Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787805599.363636,
+    "completed_at": 1787805603.909726,
+    "comments": [
+      "/Users/jingyu/Documents/gitmastery-home/gitmastery-exercises/clone-repo/shapes"
+    ],
+    "status": "Error"
   }
 ]
